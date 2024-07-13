@@ -1,2 +1,2 @@
-# C--programming-course-project-files
+# C++ programming course project files
 Code for created projects
